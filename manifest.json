@@ -1,6 +1,6 @@
 {
-    "name": "koins",
-    "short_name": "koins",
+    "name": "Koins",
+    "short_name": "Koins",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#000000",
